@@ -26,7 +26,6 @@ Once you enter username and password , and the username of the person who's prof
 </pre>
 
 ## Installation :
-##### ` Note ` : deployed project is <a href="https://www.github.com/saisumanthkumar/InstaScraper">Here</a>
 1. Fork this repo
 2. change the current directory to working directory (In my case it is desktop)
 ``` bash
@@ -66,10 +65,3 @@ pip install -r requirements.txt
 </ul>
 </li>
 </ul>
-
-<h2 style="font-family:Monospace;font-weight:bold">Tutorial : <p style="font-family:sansserif;font-weight:200;font-size:16px">Now let's get Cristiano Ronaldo Instagram details.</p></h2>
-
-<img src='/images/4.png' />
-<img src='/images/5.png' />
-<img src='/images/6.png' />
-<img src='/images/7.png' />
